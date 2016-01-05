@@ -9,8 +9,8 @@ Python script for analyzing Postgres DB metadata. Requires psycopg2 module, whic
 -  -D database : DB name (also --database)
 -  -u username : DB user (also --username)
 -  -p password : DB password (also --password)
--  -H hostname : DB password (also --hostname)
--  -P port : DB password (also --port)
+-  -H hostname : DB hostname (also --hostname)
+-  -P port : DB port (also --port)
 -  -d : debug output
 -  -h : print this help message and exit (also --help)
   
