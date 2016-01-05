@@ -1,5 +1,6 @@
 # pg_metadata
 Python script for analyzing Postgres DB metadata. Requires psycopg2 module, which you can install with:
+
 `pip install psycopg2`
 
 **usage:** `python pg_metadata.py -D database [-u username] [-p password] [-H hostname] [-P port]...`
