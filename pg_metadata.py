@@ -135,8 +135,8 @@ def usage():
     print "-D database : DB name (also --database)"
     print "-u username : DB user (also --username)"
     print "-p password : DB password (also --password)"
-    print "-H hostname : DB password (also --hostname)"
-    print "-P port : DB password (also --port)"
+    print "-H hostname : DB hostname (also --hostname)"
+    print "-P port : DB port (also --port)"
     print "-d : debug output"
     print "-h : print this help message and exit (also --help)"
 
